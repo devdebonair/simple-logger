@@ -1,0 +1,10 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "A simple logger to save text to a file.",
+  "main": "index.js",
+  "repository": "git@github.com:devdebonair/simple-logger.git",
+  "author": "Vincent Moore",
+  "license": "MIT",
+  "private": false
+}
