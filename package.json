@@ -1,5 +1,5 @@
 {
-  "name": "simple-logger",
+  "name": "@devdebonair/simple-logger",
   "version": "1.0.0",
   "description": "A simple logger to save text to a file.",
   "main": "index.js",
